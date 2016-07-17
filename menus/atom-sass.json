@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Atom-sass: compile file",
+        "command": "atom-sass:compile"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom SASS",
+          "submenu": [
+            {
+              "label": "Compile file",
+              "command": "atom-sass:compile"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
