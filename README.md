@@ -3,6 +3,7 @@
 [![apm](https://img.shields.io/apm/v/atom-sass.svg?maxAge=2592000)](https://atom.io/packages/atom-sass)
 [![apm](https://img.shields.io/apm/dm/atom-sass.svg?style=flat-square)](https://atom.io/packages/atom-sass)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/rehrumesh/atom-sass/master/LICENSE.md)
+[![Build Status](https://travis-ci.org/ryanwake/atom-sass.svg?branch=master)](https://travis-ci.org/ryanwake/atom-sass)
 
 Atom-Sass is based on sass Ruby gem. Most of this work is based on [GomatoX's sass-compile](https://github.com/GomatoX/sass-compiler) project. Huge thanks to him for coming up with the initial project.
 
